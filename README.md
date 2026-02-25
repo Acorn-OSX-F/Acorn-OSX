@@ -1,7 +1,7 @@
 # Acorn – Image Editor
 
 <p align="center">
-  <img src="https://static.macupdate.com/products/25779/m/acorn-logo.png?v=1670310887" width="200" alt="Acorn icon"/>
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a1/96/e3/a196e303-b5db-34aa-ec1a-e95e8c37f1fc/AppIcon-0-0-85-220-0-0-6-0-2x-0-0-0.png/1200x630bb.png" width="200" alt="Acorn icon"/>
 </p>
 
 <p align="center">
@@ -43,7 +43,7 @@ Efficient compositing through instant alpha removes backgrounds eliminating back
 ---
 
 <p align="center">
-  <img src="https://s3.amazonaws.com/flyingmeat/acorn8/ss_antlers_vector.jpeg" alt="Acorn screenshot"/>
+  <img src="https://s3.amazonaws.com/flyingmeat/acorn8/ssfilters.jpeg" alt="Acorn screenshot"/>
 </p>
 
 ---
